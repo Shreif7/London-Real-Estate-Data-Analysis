@@ -113,8 +113,7 @@ Age showed limited statistical influence when compared to size and location stre
 ## 👤 Author
 
 Sherif Mohy Elfiky  
-Data Analyst | Python | Statistical Market Analysis  
+Data Analyst | Python | Statistical Market Analysis 
 
 
-## 📁 Project Structure
-
+## 📁 Project Stru
