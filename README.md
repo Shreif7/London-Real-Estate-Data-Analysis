@@ -114,7 +114,6 @@ Age showed limited statistical influence when compared to size and location stre
 
 Sherif Mohy Elfiky  
 Data Analyst | Python | Statistical Market Analysis  
-Turning structured data into strategic clarity.
 
 
 ## 📁 Project Structure
